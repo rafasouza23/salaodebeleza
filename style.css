@@ -27,7 +27,7 @@ nav a {
     color: rgb(184, 169, 5);
 }
 main{
-    background-image: url(assets/Gemini_Generated_Image_geekplgeekplgeek.png);
+    background-image: url("assets/Gemini_Generated_Image_geekplgeekplgeek.png");
     background-size: 100% 100%; 
 }
 .banner {
